@@ -14,7 +14,8 @@ renders it into human-readable activity lines.
 github-activity <username>
 ```
 Example:
-```github-activity johndoe
+```
+github-activity johndoe
 ```
 Output:
 ```
