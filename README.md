@@ -20,6 +20,7 @@ Output:
 ```
 johndoe activity:
 1 - pushed a commit to johndoe/github-activity at 22/01/2026 17:18
+```
 
 ## Disclaimer
 This project is for learning and experimentation purposes for https://roadmap.sh/projects/github-user-activity
